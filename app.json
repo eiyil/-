@@ -1,15 +1,15 @@
 {
-    "name": "Video x Music Stream Bot",
-    "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/06b651dc0d827b6887764.jpg",
+    "name": "ErOs SoNg",
+    "description": "MalloRca DeV",
+    "logo": "https://telegra.ph/file/a7f3c6adfbd47a0f4050b.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/amortmusic",
-    "repository": "https://github.com/Sofy2002/eros",
+    "website": "https://t.me/rrrbe",
+    "repository": "https://github.com/eiyil/-",
     "success_url": "https://t.me/hama_refaat",
     "env": {
         "API_ID": {
@@ -47,22 +47,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "CHTLHB"
+            "value": "rrrbe"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "ALRAGIBOT"
+            "value": "rrrbe"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "PFPFF"
+            "value": "X_ErOs"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "𝙼𝚄𝚂𝙸𝙲..🎶"
+            "value": "ErOs"
         }
     },
     "addons": [],
